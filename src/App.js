@@ -8,13 +8,14 @@ export default function App() {
       Weather App
       <footer>
         This project is coded by{" "}
-        <a href="https://aworkconsulting.se/" target="_blank">
-          Emelie Jansson{" "}
+        <a href="https://aworkconsulting.se/" target="_blank" rel="noreferrer">
+          Emelie Jansson rel="noreferrer"
         </a>
         and is{" "}
         <a
           href="https://github.com/aworkconsulting/react-weather-app-emelie"
           target="_blank"
+          rel="noreferrer"
         >
           open-sourced on GitHub
         </a>
