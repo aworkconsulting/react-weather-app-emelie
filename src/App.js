@@ -5,9 +5,9 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      <div className="coontainer">
-        <h1>Weather App</h1>
-        <Weather />
+      <div className="container">
+        <Weather defaultCity="Stockholm" />
+
         <footer>
           This project is coded by{" "}
           <a
