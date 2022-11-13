@@ -23,7 +23,15 @@ export default function App() {
             target="_blank"
             rel="noreferrer"
           >
-            open-sourced on GitHub
+            open-sourced on GitHub{" "}
+          </a>
+          and{" "}
+          <a
+            href="https://phenomenal-twilight-362f78.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            hosted on Netlify!
           </a>
         </footer>
       </div>
